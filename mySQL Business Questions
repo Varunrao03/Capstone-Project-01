@@ -1,1 +1,9 @@
+Q1. Which designated areas are most prone to disasters, and what types of disasters are most common there?
+Q2. Which Disaster_Type categories are most likely to receive FEMA declarations faster?
+Q3. What are the emerging hotspots for disasters, based on recent spikes in in previously less-affected areas?
+Q4. Is there a correlation between Place_code and the frequency or severity of disaster events?
+Q5. Which states consistently have the highest counts, and what are the common disaster types there? 
+Q6. Are certain Declaration types associated with quicker disaster closeouts?
+Q7. How are disaster occurrences distributed geographically based on Fips codes?
+Q8. Using historical data, can the Incident_Begin_date and Geo_Id predict the likelihood of a specific Disaster_Type in a region?
 
