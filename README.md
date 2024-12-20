@@ -1,2 +1,3 @@
 # Data-Analytics-US-National-Disaster
 The analysis focuses on understanding the disaster trends across the US using Power BI and Looker for visualising disaster trends and MySQL to write SQL queries, enabling insights into patterns, correlations, and predictions.
+The dataset I have selected focuses on natural calamities observed across the United States. The primary goal of this analysis is to identify the states most affected by various natural disasters. The dataset includes key columns such as the state impacted, the type of incident (e.g., Tornado, Tsunami), the designated area affected within the state, and additional relevant details.
