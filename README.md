@@ -6,6 +6,7 @@ The dataset I have selected focuses on natural calamities observed across the Un
 
 # Few Business Questions Addressed
 1. Which designated areas are most prone to disasters, and what types of disasters are most common there?
-![image](https://github.com/user-attachments/assets/21e7c808-9bad-48d2-aecd-aaacad6d33da)
+<img width="388" alt="image" src="https://github.com/user-attachments/assets/94f6343a-6713-49f9-ae22-58be68808998" />
+
 
 
